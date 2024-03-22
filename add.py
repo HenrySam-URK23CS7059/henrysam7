@@ -1,3 +1,1 @@
-x = 30
-y = 20
-print( x + y )
+print("This resp is used for collabrating n cloning")
